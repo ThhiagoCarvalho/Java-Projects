@@ -9,8 +9,8 @@ public class Funcionario {
     }
 
     public Funcionario(){
-        this.nome = "Adriana";
-        this.cargo = "Professora";
+        this.nome = "thiago";
+        this.cargo = "Professor";
         this.salario = 100000.0f;
     }
 

@@ -16,13 +16,12 @@ public class Aluno {
     }
 
     public Aluno(){
-        this.nome = "Rodriguinho";
-        this.matricula = 50230574;
-        this.notas[0] = 10.0f;
-        this.notas[1] = 9.0f;
+        this.nome = "thiago";
+        this.matricula = 50302550;
+        this.notas[0] = 5.0f;
+        this.notas[1] = 6.0f;
     }
 
-    //GETs E SETs
     public void setNome(String nome){
         if (nome.length() > 3) this.nome = nome;
     }

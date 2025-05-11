@@ -6,8 +6,8 @@ public class Paciente {
     private ArrayList<String> consultas = new ArrayList<>();
 
     public Paciente(){
-        this.nome = "Thiaguinho";
-        this.idade = 17;
+        this.nome = "thiago";
+        this.idade = 20;
         addConsulta("Primeira Consulta");
         addConsulta("Segunda Consulta");
     }

@@ -10,7 +10,7 @@ public class ContaBancaria {
     }
 
     public ContaBancaria(){
-        this.titular = "Joãozinho";
+        this.titular = "thiago";
         this.numeroConta = 12345678;
         this.saldo = 500.0f;
     }

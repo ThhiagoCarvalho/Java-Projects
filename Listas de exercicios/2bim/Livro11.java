@@ -6,9 +6,9 @@ public class Livro11 {
     public Livro11(){
         this.isbn = 9783140464079L;
         this.ano = 1943;
-        this.nome = "O Pequeno Príncipe";
-        this.autor = "Antoine de Saint-Exupéry";
-        this.editora = "HarperCollins Brasil";
+        this.nome = "Star wars";
+        this.autor = "thiago";
+        this.editora = "JK Rowlling";
     }
 
     public Livro11(long isbn, int ano, String nome, String autor, String editora){

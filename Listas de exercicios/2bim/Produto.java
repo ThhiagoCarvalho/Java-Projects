@@ -10,9 +10,9 @@ public class Produto {
     }
 
     public Produto(){
-        this.nome = "Brinquedo";
-        this.preco = 99.99f;
-        this.qtdEstoque = 5;
+        this.nome = "Roupa";
+        this.preco = 200.00f;
+        this.qtdEstoque = 10;
     }
 
     public void setNome(String nome){

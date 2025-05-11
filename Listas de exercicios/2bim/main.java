@@ -6,57 +6,57 @@ public class main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        //EX 1
+        //exercicio 1
         Circulo circulo = new Circulo(5.0f);
         circulo.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 2
+        //exercicio 2
         ContaBancaria conta = new ContaBancaria();
         conta.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 3
+        //exercicio 3
         Retangulo retangulo = new Retangulo(2.0f, 7.0f);
         retangulo.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 4
-        Aluno aluninho = new Aluno();
-        aluninho.ImprimirResultados();
+        //exercicio 4
+        Aluno aluno = new Aluno();
+        aluno.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 5
-        Funcionario adriana = new Funcionario();
-        adriana.ImprimirResultados();
+        //exercicio 5
+        Funcionario thiago = new Funcionario();
+        thiago.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 6
+        //exercicio 6
         Produto produto = new Produto();
         produto.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 7
+        //exercicio 7
         Triangulo t = new Triangulo();
         t.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 8
+        //exercicio 8
         Carro civic = new Carro();
         civic.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 9
-        Paciente thiaguinho = new Paciente();
-        thiaguinho.ImprimirResultados();
+        //exercicio 9
+        Paciente thiago2 = new Paciente();
+        thiago2.ImprimirResultados();
         System.out.println("\n\n");
 
-        //EX 10
-        Livro livro = new Livro("star wars", "rodriguete",14,true);
+        //exercicio 10
+        Livro livro = new Livro("star wars", "thiago",14,true);
         livro.dados();
         System.out.println("\n\n");
 
-        //EX 11
+        //exercicio 11
         Livro11 pequenoPrincipe = new Livro11();
         pequenoPrincipe.ImprimirResultados();
         System.out.println("\n");
